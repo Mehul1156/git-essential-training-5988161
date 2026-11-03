@@ -1,3 +1,2 @@
 Hello world
 
-This is an extra line
